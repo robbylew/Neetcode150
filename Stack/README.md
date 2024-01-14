@@ -31,8 +31,6 @@ A stack is a linear data structure that follows the Last In, First Out (LIFO) pr
 
 ## Problems in this Section
 
-The problems here are tailored to help you understand and apply the stack data structure effectively. Each problem directory contains the problem statement, a solution file, and an explanation README.
-
 - **Problem 1:** [Valid Parentheses]
 - **Problem 2:** [Min Stack]
 - **Problem 3:** [Evaluate Reverse Polish Notation]
