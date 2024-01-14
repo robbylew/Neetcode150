@@ -46,4 +46,3 @@ A stack is a linear data structure that follows the Last In, First Out (LIFO) pr
 
 ---
 
-Happy coding, and enjoy solving these stack-based problems!
