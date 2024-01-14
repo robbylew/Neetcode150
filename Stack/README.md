@@ -31,13 +31,14 @@ A stack is a linear data structure that follows the Last In, First Out (LIFO) pr
 
 ## Problems in this Section
 
-- **Problem 1:** [Valid Parentheses]
-- **Problem 2:** [Min Stack]
-- **Problem 3:** [Evaluate Reverse Polish Notation]
-- **Problem 4:** [Generate Parentheses]
-- **Problem 5:** [Daily Temperatures]
-- **Problem 6:** [Car Fleet]
-- **Problem 7:** [Largest Rectangle In Histogram]
+- **Problem 1:** [Valid Parentheses](/Solutions/Valid%20Parentheses.py)
+- **Problem 2:** [Min Stack](/Solutions/Min%20Stack.py)
+- **Problem 3:** [Evaluate Reverse Polish Notation](/Solutions/Evaluate%20Reverse%20Polish%20Notation.py)
+- **Problem 4:** [Generate Parentheses](/Solutions/Generate%20Parentheses.py)
+- **Problem 5:** [Daily Temperatures](/Solutions/Daily%20Temperatures.py)
+- **Problem 6:** [Car Fleet](/Solutions/Car%20Fleet.py)
+- **Problem 7:** [Largest Rectangle In Histogram](/Solutions/Largest%20Rectangle%20In%20Histogram.py)
+
 
 ## Learning Resources
 
