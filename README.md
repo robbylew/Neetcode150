@@ -21,7 +21,7 @@ In each category folder, problems are organized with a consistent naming convent
 
 The problems are sourced from LeetCode and organized as per their categorization on Neetcode.io. Here’s a glimpse of the categories and problems:
 
-- **Arrays & Hashing**
+### Arrays & Hashing
 
 |Name|Leetcode ID|Difficulty|Description|Detailed Solution|
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ The problems are sourced from LeetCode and organized as per their categorization
 |Encode and Decode Strings|[271](https://leetcode.com/problems/encode-and-decode-strings/description/)|Medium|Design an algorithm to encode and decode a list of strings.|[Python](/Arrays%20%26%20Hashing/Solutions/Encode%20and%20Decode%20Strings.py)|
 |Longest Consecutive Sequence|[128](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Medium|Find the length of the longest consecutive elements sequence.|[Python](/Arrays%20%26%20Hashing/Solutions/Longest%20Consecutive%20Sequence.py)|
 
-- **Stack**
+### Stack
 
 |Name|Leetcode ID|Difficulty|Description|Detailed Solution|
 |---|---|---|---|---|
@@ -47,8 +47,7 @@ The problems are sourced from LeetCode and organized as per their categorization
 |Largest Rectangle in Histogram|[84](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|Hard|Find the area of the largest rectangle in the histogram.|[Python](/Stack/Solutions/Largest%20Rectangle%20In%20Histogram.py)|
 
 
-- **[Other Categories COMING SOON]**
-  - ...
+### [Other Categories COMING SOON]
 
 For a complete list of problems and detailed explanations, refer to the respective category folders and their README.md files.
 
