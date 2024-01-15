@@ -27,17 +27,15 @@ The problems are sourced from LeetCode and organized as per their categorization
 
 |Leetcode ID|Difficulty|Description|Detailed Solution|
 |---|---|---|---|
-|[217](https://leetcode.com/problems/contains-duplicate/description/)|Easy|Identifying if an array contains duplicate elements.|[Python](/Arrays%20%26%20Hashing/Solutions/Contains%20Duplicate.py)|
+|[242](https://leetcode.com/problems/valid-anagram/description/)|Easy|Determine if two strings are anagrams.|[Python](/Arrays%20%26%20Hashing/Solutions/Valid%20Anagram.py)|
+|[1](https://leetcode.com/problems/two-sum/description/)|Easy|Find indices of two numbers such that they add up to a specific target.|[Python](/Arrays%20%26%20Hashing/Solutions/Two%20Sum.py)|
+|[49](https://leetcode.com/problems/group-anagrams/description/)|Medium|Group strings that are anagrams of each other.|[Python](/Arrays%20%26%20Hashing/Solutions/Group%20Anagrams.py)|
+|[347](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|Find the k most frequent elements in an array.|[Python](/Arrays%20%26%20Hashing/Solutions/Top%20K%20Frequent%20Elements.py)|
+|[238](https://leetcode.com/problems/product-of-array-except-self/description/)|Medium|Calculate the product of array elements except for the current element.|[Python](/Arrays%20%26%20Hashing/Solutions/Product%20of%20Array%20Except%20Self.py)|
+|[36](https://leetcode.com/problems/valid-sudoku/description/)|Medium|Determine if a Sudoku board is valid.|[Python](/Arrays%20%26%20Hashing/Solutions/Valid%20Sudoku.py)|
+|[271](https://leetcode.com/problems/encode-and-decode-strings/description/)|Medium|Design an algorithm to encode and decode a list of strings.|[Python](/Arrays%20%26%20Hashing/Solutions/Encode%20and%20Decode%20Strings.py)|
+|[128](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Medium|Find the length of the longest consecutive elements sequence.|[Python](/Arrays%20%26%20Hashing/Solutions/Longest%20Consecutive%20Sequence.py)|
 
-  - [Contains Duplicate](/Arrays%20%26%20Hashing/Solutions/Contains%20Duplicate.py)
-  - [Valid Anagram](/Arrays%20%26%20Hashing/Solutions/Valid%20Anagram.py)
-  - [Two Sum](/Arrays%20%26%20Hashing/Solutions/Two%20Sum.py)
-  - [Group Anagrams](/Arrays%20%26%20Hashing/Solutions/Group%20Anagrams.py)
-  - [Top K Frequent Elements](/Arrays%20%26%20Hashing/Solutions/Top%20K%20Frequent%20Elements.py)
-  - [Product of Array Except Self](/Arrays%20%26%20Hashing/Solutions/Product%20of%20Array%20Except%20Self.py)
-  - [Valid Sudoku](/Arrays%20%26%20Hashing/Solutions/Valid%20Sudoku.py)
-  - [Encode and Decode Strings](/Arrays%20%26%20Hashing/Solutions/Encode%20and%20Decode%20Strings.py)
-  - [Longest Consecutive Sequence](/Arrays%20%26%20Hashing/Solutions/Longest%20Consecutive%20Sequence.py)
 
 - **Stack**
   - [Valid Parentheses](/Stack/Solutions/Valid%20Parentheses.py)
