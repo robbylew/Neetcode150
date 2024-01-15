@@ -20,8 +20,6 @@ A stack is a linear data structure operating on the Last In, First Out (LIFO) pr
   - `IsEmpty`: Check if the stack is empty.
   - `Size`: Get the number of elements.
  
-  ![Picture of Stack Characteristics](https://i0.wp.com/www.admixweb.com/wp-content/uploads/2017/06/Stack-JavaScript-1.png?ssl=1)
-
 ## Appropriate Use Cases for a Stack
 
 - **Undo Functionality**: Common in text editors.
