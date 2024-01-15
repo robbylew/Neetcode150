@@ -6,6 +6,8 @@ Welcome to the 'Stack' section of the Neetcode 150 Algorithm Solutions repositor
 
 A stack is a linear data structure operating on the Last In, First Out (LIFO) principle, akin to a stack of plates where only the top plate is directly accessible. Stacks are versatile and are used in numerous algorithmic solutions.
 
+![Picture of a stack](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fthe-stack-what-is-it-exactly-and-how-does-it-work-in-javascript-cbc7ee4bacdd&psig=AOvVaw0tc1AMrbV6-J9yYxCjheit&ust=1705368419282000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiU08-e3oMDFQAAAAAdAAAAABAD)
+
 ## Characteristics of a Stack
 
 - **LIFO Principle**: The most recently added element is the first to be removed.
