@@ -1,4 +1,4 @@
-# Neetcode 150 Algorithm Solutions
+# Neetcode 150 Algorithm Challenge
 
 Welcome to my repository where I am taking on the challenge of solving all 150 algorithm problems listed on Neetcode.io. This project is a journey through various types of algorithmic challenges, and my primary goal is to deepen my understanding of algorithms and data structures. I'll be categorizing solutions based on the type of problem, such as stack, two pointers, dynamic programming, etc., to make it easier to navigate and learn.
 
