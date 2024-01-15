@@ -6,6 +6,8 @@ Welcome to the 'Arrays & Hashing' section of the Neetcode 150 Algorithm Solution
 
 Arrays are fundamental data structures consisting of a collection of elements, identifiable by index or key. Hashing, on the other hand, involves mapping data of various types to a fixed-size sequence, enhancing the speed of data retrieval.
 
+![Simple picture representing Arrays and Hash Table](https://qph.cf2.quoracdn.net/main-qimg-8c7683eeaac173b3337578fadcdc521b)
+
 ## Characteristics of Arrays and Hashing
 
 - **Direct Index Access**: Arrays allow for O(1) access time for elements if the index is known.
