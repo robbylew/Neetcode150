@@ -41,7 +41,7 @@ The problems are sourced from LeetCode and organized as per their categorization
   - [Car Fleet](/Stack/Solutions/Car%20Fleet.py)
   - [Largest Rectangle in Histogram](/Stack/Solutions/Largest%20Rectangle%20In%20Histogram.py)
 
-- **[Other Categories When I get to it]**
+- **[Other Categories COMING SOON]**
   - ...
 
 For a complete list of problems and detailed explanations, refer to the respective category folders and their README.md files.
