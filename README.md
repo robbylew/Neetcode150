@@ -21,7 +21,7 @@ In each category folder, problems are organized with a consistent naming convent
 
 The problems are sourced from LeetCode and organized as per their categorization on Neetcode.io. Here’s a glimpse of the categories and problems:
 
-### Arrays & Hashing
+### [Arrays & Hashing](/Arrays%20&%20Hashing/) 
 
 |Name|Leetcode ID|Difficulty|Description|Detailed Solution|
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ The problems are sourced from LeetCode and organized as per their categorization
 |Encode and Decode Strings|[271](https://leetcode.com/problems/encode-and-decode-strings/description/)|Medium|Design an algorithm to encode and decode a list of strings.|[Python](/Arrays%20%26%20Hashing/Solutions/Encode%20and%20Decode%20Strings.py)|
 |Longest Consecutive Sequence|[128](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Medium|Find the length of the longest consecutive elements sequence.|[Python](/Arrays%20%26%20Hashing/Solutions/Longest%20Consecutive%20Sequence.py)|
 
-### Stack
+### [Stack](/Stack/)
 
 |Name|Leetcode ID|Difficulty|Description|Detailed Solution|
 |---|---|---|---|---|
