@@ -21,7 +21,14 @@ In each category folder, problems are organized with a consistent naming convent
 
 The problems are sourced from LeetCode and organized as per their categorization on Neetcode.io. Here’s a glimpse of the categories and problems:
 
+
+
 - **Arrays & Hashing**
+
+|Leetcode ID|Difficulty|Description|Detailed Solution|
+|---|---|---|---|
+|[217](https://leetcode.com/problems/contains-duplicate/description/)|Easy|Identifying if an array contains duplicate elements.|[Python](/Arrays%20%26%20Hashing/Solutions/Contains%20Duplicate.py)|
+
   - [Contains Duplicate](/Arrays%20%26%20Hashing/Solutions/Contains%20Duplicate.py)
   - [Valid Anagram](/Arrays%20%26%20Hashing/Solutions/Valid%20Anagram.py)
   - [Two Sum](/Arrays%20%26%20Hashing/Solutions/Two%20Sum.py)
